@@ -33,7 +33,7 @@ A Google-Form-like application built with a full-stack TypeScript setup, organiz
 ## Repository Structure (Monorepo)
 
 ```
-cyberify-task/
+cyberify/
 ├── src/                          # React frontend
 │   ├── components/
 │   │   ├── Dialog/
@@ -75,7 +75,7 @@ cyberify-task/
 
 ```bash
 git clone git@github.com:annsabbasi/cyberify.git
-cd cyberify-task
+cd cyberify
 ```
 
 ### 2. Backend Setup
